@@ -9,6 +9,15 @@ AutoEDA automatically generates everything you need to perform exploratory data 
 * Free software: MIT License
 * Documentation: https://autoeda.readthedocs.io.
 
+## Installation
+26/12/2025 - installation in PyPI not active
+
+```bash
+git clone https://github.com/DRMdata/autoeda.git
+cd autoeda
+pip install -e .
+```
+
 ## Features
 
 * TODO
